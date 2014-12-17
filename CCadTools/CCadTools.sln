@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCadTools", "CCadTools\CCadTools.vcproj", "{09F1F699-F80A-4F6E-A171-4D0174DF8013}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JustTools", "..\..\JustTools\JustTools\JustTools.vcproj", "{07A6DC3A-D120-4C2C-988F-E70E0AA5BCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F1F699-F80A-4F6E-A171-4D0174DF8013}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09F1F699-F80A-4F6E-A171-4D0174DF8013}.Debug|Win32.Build.0 = Debug|Win32
+		{09F1F699-F80A-4F6E-A171-4D0174DF8013}.Release|Win32.ActiveCfg = Release|Win32
+		{09F1F699-F80A-4F6E-A171-4D0174DF8013}.Release|Win32.Build.0 = Release|Win32
+		{07A6DC3A-D120-4C2C-988F-E70E0AA5BCDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07A6DC3A-D120-4C2C-988F-E70E0AA5BCDB}.Debug|Win32.Build.0 = Debug|Win32
+		{07A6DC3A-D120-4C2C-988F-E70E0AA5BCDB}.Release|Win32.ActiveCfg = Release|Win32
+		{07A6DC3A-D120-4C2C-988F-E70E0AA5BCDB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
